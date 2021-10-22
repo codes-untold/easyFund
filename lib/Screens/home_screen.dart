@@ -157,6 +157,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           return GestureDetector(
                             onTap: (){
 
+
                                if(data.transferAmount == "0"){
                                  Services().showInSnackBar("Enter transfer Amount", context);
                                }
@@ -245,5 +246,7 @@ class _HomeScreenState extends State<HomeScreen> {
       },
     );
   }
+
+
 
 }

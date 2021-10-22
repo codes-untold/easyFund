@@ -56,10 +56,10 @@ Future <void> createUser(username,email,password)async{
 
           if (newUser.user!.emailVerified) {
             await Services().firstTimerSetter().then((value){
-              Provider.of<DataManager>(context).setUserEmail(email);
+              Provider.of<DataManager>(context,listen: false).setUserEmail(email);
               Navigator.pushReplacement(context,PageTransition(type: PageTransitionType.rightToLeft,child: HomeScreen()));
             }).onError((error, stackTrace) {
-              services.displayToast("Unable to login");
+              services.displayToast(error.toString());
             });
 
 
