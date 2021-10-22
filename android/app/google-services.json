@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130564033281",
+    "project_id": "first-ally",
+    "storage_bucket": "first-ally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130564033281:android:758c4b881ad3ce46312900",
+        "android_client_info": {
+          "package_name": "com.finance.firstallay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130564033281-1dquk8npro0nbp6t57th7c147k43iuf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMGUmnSAAFZJJjTFeWNgG1iw2gUOHMaT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130564033281-1dquk8npro0nbp6t57th7c147k43iuf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
