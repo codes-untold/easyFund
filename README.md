@@ -2,15 +2,15 @@
 
 A new Flutter application.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Demo mobile Application for bureau de Exchange service
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://firebasestorage.googleapis.com/v0/b/flash-chat-1ebd5.appspot.com/o/Adobe_Post_20211023_2050440.7235499259219932.png?alt=media&token=10575c2b-9726-4d2f-8e1f-f8475eed97aa)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
