@@ -43,7 +43,6 @@ dependencies:
   provider: 6.0.1
   currency_picker: 2.0.5
   http: ^0.13.4
-  flutterwave: ^1.0.1
   flutterwave_standard: ^1.0.3
   shared_preferences: 2.0.0
 

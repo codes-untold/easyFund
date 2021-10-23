@@ -28,10 +28,10 @@ Future <void> createUser(username,email,password)async{
   } on Exception catch (e) {
 
     if(e.toString().contains("EMAIL_ALREADY_IN_USE")){
-      services.displayToast("Email aleady exists");
+      services.displayToast("Email already exists");
     }
 
-    if(e.toString().contains("NETWORK_REQUEST_FAILED")){
+    if(e.toString().contains("network")){
       services.displayToast("Network problem occured");
     }
   }
